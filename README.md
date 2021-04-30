@@ -1,3 +1,4 @@
 # **AI-Covid19-Recommendation-System-ChatBot**
 ## About the Project : ##
-**AI-Covid19-Recommendation-System-ChatBot**
+  During the novel coronavirus (COVID-19) pandemic, institutions like the Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) have begun utilizing chatbots to share information, suggest behavior, and offer emotional support. Chatbots are software programs that talk with people through voice or text in their natural language. Some well-known examples include “Alexa” from Amazon, “Siri” from Apple, and “Cortana” from Microsoft. They often come pre-installed on smartphones or home-based smart speakers.
+  In recent years, chatbot use for health-related purposes has increased considerably, from supporting clinicians with clinical interviews and diagnosis to aiding consumers in selfmanaging chronic conditions. Chatbots have varied widely in their responses to questions about physical health, suicide, intimate partner violence, substance abuse, and other sensitive conversations. The COVID-19 pandemic puts in stark relief the potential for chatbots to help save lives.
