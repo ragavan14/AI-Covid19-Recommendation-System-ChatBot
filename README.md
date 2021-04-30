@@ -8,8 +8,8 @@
 
     Our project comes handy in such a hard situation. Our project is an all in one tool to know about the information and queries regarding COVID-19. 
   
-   Usually we find wrong information from sources or would like to know more information about the current situation or about Covid-19 ,can use our recommendation engine it has information along with links to official websites, if yet their query is not answered they can chat with our bot for more specific information, find out nearest vaccine centres too. They can compare cases of covid with respect to countries. To find this you have to browse different websites and collect data with might not be real time. Hence we have created this recommendation engine to help you find all your queries at one place.
+   Usually we find wrong information from sources or would like to know more information about the current situation or about Covid-19 ,can use our recommendation engine it has information along with links to official websites, if yet their query is not answered they can chat with our bot for more specific information, find out nearest vaccine centres too. They can compare cases of covid with respect to countries. To find this you have to browse different websites and collect data with might not be real time. Hence we have created this recommendation engine to help you find all your queries at one place. For further queries or doubts please refer to **User Manual**.
    
    We have some more ideas to enhance this project to next Level , so we are working on it. We would also like to take your opinions and suggestions if any.
    
-   ***Fell free to post your comments and enhance this project.***
+   ***Feel free to post your comments and enhance this project.***
