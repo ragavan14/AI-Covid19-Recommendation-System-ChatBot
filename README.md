@@ -6,4 +6,4 @@
   
   In recent years, chatbot use for health-related purposes has increased considerably, from supporting clinicians with clinical interviews and diagnosis to aiding consumers in self managing chronic conditions. Chatbots have varied widely in their responses to questions about physical health, suicide, intimate partner violence, substance abuse, and other sensitive conversations. **The COVID-19 pandemic puts in stark relief the potential for chatbots to help save lives.**
 
-    Our project comes handy when you want to compare graphs between bt
+    Our project comes handy when you want to compare graphs between I was goint i was joining it for the party 
